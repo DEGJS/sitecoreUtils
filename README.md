@@ -12,14 +12,14 @@ $ jspm install github:DEGJS/sitecoreUtils
 
 ## Usage
 
-### Importing individual objectUtils methods:
+### Importing individual sitecoreUtils methods:
 ```js
 import { isSitecoreEditMode } from "DEGJS/sitecoreUtils";
 
 let editModeCheck = isSitecoreEditMode();
 ```
 
-### Importing all objectUtils methods:
+### Importing all sitecoreUtils methods:
 ```js
 import * as sitecoreUtils from "DEGJS/sitecoreUtils";
 

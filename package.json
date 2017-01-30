@@ -1,0 +1,28 @@
+{
+    "name": "sitecoreUtils",
+    "version": "1.0.0",
+    "description": "A utility library for working with the Sitecore CMS.",
+    "keywords": [
+        "DEGJS",
+        "Sitecore"
+    ],
+    "author": {
+        "name": "Aaron Ladage",
+        "email": "aladage@degdigital.com",
+        "url": "http://degdigital.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DEGJS/sitecoreUtils.git"
+    },
+    "bugs": "https://github.com/DEGJS/sitecoreUtils/issues",
+    "jspm": {
+        "registry": "jspm",
+        "format": "es6",
+        "main": "sitecoreUtils.js",
+        "directories": {
+            "lib": "src"
+        }
+    }
+}

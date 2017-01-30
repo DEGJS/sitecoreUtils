@@ -45,6 +45,6 @@ The element that's checked for the given class
 ## Browser Support
 
 sitecoreUtils depends on the following browser APIs:
-+ sitecoreUtils: [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) | [Polyfill](https://github.com/eligrey/classList.js/)
++ classList: [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) | [Polyfill](https://github.com/eligrey/classList.js/)
 
 To support legacy browsers, you'll need to include polyfills for the above API.

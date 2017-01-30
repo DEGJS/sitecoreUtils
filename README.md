@@ -4,7 +4,7 @@ A utility library for working with the Sitecore CMS.
 ## Install
 sitecoreUtils is an ES6 module. Consequently, you'll need an ES6 transpiler ([Babel](https://babeljs.io) is a nice one) and a module loader ([SystemJS](https://github.com/systemjs/systemjs) will do the job) as part of your Javascript workflow.
 
-If you're already using the [JSPM package manager](http://jspm.io) for your project, you can install objectUtils with the following command:
+If you're already using the [JSPM package manager](http://jspm.io) for your project, you can install sitecoreUtils with the following command:
 
 ```
 $ jspm install github:DEGJS/sitecoreUtils

@@ -33,12 +33,12 @@ Returns a boolean value depending on whether the site is currently in Sitecore's
 
 #### editModeClass
 Type: `String`  
-Default: `sc--edit-mode`
+Default: `sc--edit-mode`  
 The class name that's tested for on a given element
 
 #### el
 Type: `DOM element`  
-Default: `document.body`
+Default: `document.body`  
 The element that's checked for the given class
 
 

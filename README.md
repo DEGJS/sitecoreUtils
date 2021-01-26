@@ -1,6 +1,8 @@
 # sitecoreUtils
 A utility library for working with the Sitecore CMS.
 
+**THIS REPOSITORY IS NO LONGER MAINTAINED**
+
 ## Install
 sitecoreUtils is an ES6 module. Consequently, you'll need an ES6 transpiler ([Babel](https://babeljs.io) is a nice one) and a module loader ([SystemJS](https://github.com/systemjs/systemjs) will do the job) as part of your Javascript workflow.
 
